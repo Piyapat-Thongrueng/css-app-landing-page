@@ -117,14 +117,14 @@ p {
     align-items: center;
     justify-content: space-between;
     width: 1200px;
-    height: 600px;
+    height: 480px;
     gap: 40px;
 }
 
 .dev1-appname {
     display: flex;
     justify-content: center;
-    width: 250px;
+    width: 220px;
     height: 40px;
     border-radius: 999px;
     background-color: #563AFF1A;
